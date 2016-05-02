@@ -4,6 +4,7 @@ title: You're up and running!
 ---
 
 This is the first step I try to write document.
+日本語と英語との記述を行う。
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
