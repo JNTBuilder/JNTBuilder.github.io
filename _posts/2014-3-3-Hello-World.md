@@ -6,6 +6,8 @@ title: You're up and running!
 This is the first step I try to write document.
 日本語と英語との記述を行う。
 
+記入してから反映するまでにやや時間がかかるようなので、注意が必要。
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
