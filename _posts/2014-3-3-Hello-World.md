@@ -8,6 +8,8 @@ This is the first step I try to write document.
 
 記入してから反映するまでにやや時間がかかるようなので、注意が必要。
 
+※本件は、[アプギガ様による紹介記事](http://plus.appgiga.jp/masatolan/2015/01/13/55047/) を参考に作成した。
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
